@@ -38,7 +38,7 @@ Getting Started:
     Build and train a classification model using [Library/Framework].
     Evaluate the model's accuracy and performance using appropriate metrics.
 
-# Project 3: Ozone Analysis using KNN and Naive Bayes
+# Project 3: Ozone Analysis using K-Nearest Neighbors and Naive Bayes algorithm
 
 Overview:
 In this project, we delve into analyzing ozone levels in the atmosphere using machine learning techniques. By applying K-nearest neighbors (KNN) and Naive Bayes algorithms, we seek to predict ozone levels based on environmental factors such as temperature, relative luminosity, and spectral class.
